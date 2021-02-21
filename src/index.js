@@ -74,4 +74,4 @@ const users = [
     },
 ]
 
-ReactDOM.render(<UserList users={users} />, document.getElementById('root'))
+ReactDOM.render(<Counter />, document.getElementById('root'))
