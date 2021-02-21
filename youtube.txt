@@ -1,0 +1,27 @@
+
+<Header>
+	<Logo />
+	<Search />
+	<UserControls>
+		<CreateVideo />
+		<Notifications />
+		<Profile />
+	</ UserControls>
+</ Header>
+
+<Sidebar>
+	<Home />
+	<Trending />
+	<Subscriptions>
+		<ChannelsList />
+	</ Subscriptions>		
+</ Sidebar>
+
+<Content>
+	<VideoList>
+		<VideoCard>
+			<Thumbnail />
+			<Info />
+		</ VideoCard>
+	</VideoList
+</ Content>
